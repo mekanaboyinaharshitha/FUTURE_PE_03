@@ -26,6 +26,31 @@ PROMPT USED
 
 Create a complete SEO Blog Pack for a web development business. Include keyword research, search intent analysis, SEO blog outline (H1-H3), a long-form SEO blog, content cluster ideas, internal linking strategy, local SEO version, meta title, meta description, and call-to-action.
 
+PROMPT USED
+
+Create a complete SEO Blog Pack for a web development business. Include keyword research, search intent analysis, SEO blog outline (H1-H3), a long-form SEO blog, content cluster ideas, internal linking strategy, local SEO version, meta title, meta description, and call-to-action.
+
+PROMPT WORKFLOW
+
+Prompt 1 – Keyword & Intent Analysis
+Analyze the keyword "Web Development Services for Small Businesses" and identify search intent, target audience, and SEO opportunities.
+
+Prompt 2 – SEO Blog Outline Generation
+Create an SEO-friendly H1-H3 blog outline targeting the keyword "Web Development Services for Small Businesses".
+
+Prompt 3 – Pillar Blog Generation
+Write a long-form SEO blog based on the outline. The content should be helpful, business-focused, and optimized for search intent.
+
+Prompt 4 – Content Cluster Generation
+Generate 5 supporting blog topics related to the main keyword. Include internal linking opportunities.
+
+Prompt 5 – Local SEO Adaptation
+Adapt the content for Hyderabad and create local SEO title and meta description.
+
+TARGET KEYWORD
+
+Web Development Services for Small Businesses
+
 TARGET KEYWORD
 
 Web Development Services for Small Businesses
